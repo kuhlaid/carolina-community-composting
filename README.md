@@ -1,28 +1,36 @@
 # About this code
 
-This repository was started in August of 2024 and uses [Docusaurus](https://docusaurus.io), a modern static website generator. The idea behind the repository is to provide a knowledgebase guide into understanding and working with the Carrboro Composting publicly available data.
+This repository was started in August of 2024 and uses [Docusaurus](https://docusaurus.io), a modern static website generator, to create a Carrboro Composting website. The idea behind the repository is to provide a knowledgebase guide into understanding and working with the Carrboro Composting publicly available data.
 
 ## Why Docusaurus
 
-The reason for Docusaurus is it is a CMS framework with integrations for things such as site search and the ability to easily prop up a test environment on [Vercel](https://vercel.com) or similar cloud virtual hosting solutions such as [StackBlitz](https://stackblitz.com/) without the need to create a coding environment locally (which can be pain for developers who simply wish to help with documentation and not have to worry about installing software dependencies which might not work with their computer setup).
+The reason for Docusaurus is it is a CMS framework with integrations for things such as site search and the ability to easily prop up a test environment on [Vercel](https://vercel.com) or similar cloud virtual hosting solutions such as [StackBlitz](https://stackblitz.com/). Also, Docusaurus websites can be created in the cloud using services such as GitHub Codespaces (which can be pain for developers who simply wish to help with documentation and not have to worry about installing software dependencies which might not work with their computer setup). See Docusaurus documentation for additional information on working with Docusaurus.
 
 Other benefits are:
 
 - The Docusaurus framework automatically checks for broken links in your documents when you build the code (whether you are building locally or letting Vercel build for you). This is great for quality assurance.
-- Looking good from the start, means a framework that has been designed by professional graphic artists for accessibility and out-of-the-box visual appeal. You can simply focus on content and not c creating a site from scratch.
+- Looking good from the start, means a framework that has been designed by professional graphic artists for accessibility and out-of-the-box visual appeal. You can simply focus on content and not worry about creating a website from scratch.
 
-## Using the code locally
+## Editing and testing the site
 
-See Docusaurus documentation for this. Try using StackBlitz as an alternative (which is free but slow to rebuild the site) or some other virtual service first, to save you the headache of installing dependencies on your computer. Although, if you run builds locally (yarn build) then you are able to find broken links or errors faster, so there are advantages to testing locally.
+### Using GitHub Codespaces
 
-For me, I open a WSL command and paste the following command to ensure I am in the correct directory before I try to run Docusausus (this will vary for you):
+The easiest way to develop the site is to use GitHub Codespaces (https://github.com/codespaces). Create a new codespace using repository you are using (in this case https://github.com/kuhlaid/carrboro-composting). Codespaces saves you the headache of installing VS Code, NPM, and other components on your personal computer in able to build and update the website.
+
+The `Makefile` within the repository defines the terminal commands to build and test the website. Within the terminal window of the editor you will want to copy and paste `make createEnvironment`, which will run the `createEnvironment` command within the Makefile. Then anytime you make edits to the site or want to see the latest changes you have made to the site use `make buildSiteAndTest` in the terminal command line. To stop the site preview use `Ctrl+C` keys within the command line.
+
+### Developing locally
+
+You have been warned, but if you prefer to develop on your local computer, the following commands will assume you are using a WSL command line.
+
+- Open a WSL command and paste the following command to ensure I am in the correct directory before I try to run Docusausus (this will vary for you):
 `cd "/mnt/c/Users/pgale/LocalDev/carrrboro-composting"`
 
 To clone the repository locally use:
 
 `git clone --config core.autocrlf=false https://github.com/kuhlaid/carrrboro-composting`
 
-## Node install using Yarn
+#### Node install using Yarn
 
 `fnm install 22` # to install Node version 22 (to uninstall use `fnm uninstall 22`)
 Once Node is installed we need to enable Yarn using `corepack enable yarn`. See https://nodejs.org/en/download/ for additional instructions.
@@ -33,7 +41,7 @@ Then use `yarn build` to check that all of the documents are referencing links a
 
 **Technical Note: If you are testing Docusaurus locally and the command line that serves the Docusaurus site is closed unexpectedly, it is best to simply log out of the computer and log back so you can start the site using a new instance (since `port in use` issues will be difficult to resolve otherwise).**
 
-## Update or add packages
+#### Update or add packages
 
 Use Yarn via https://yarnpkg.com/getting-started/install. When adding something like a search module to the package.json script, run `yarn up` to update the packages or `yarn add` to add a package.
 
