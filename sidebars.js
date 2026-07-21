@@ -25,10 +25,10 @@ const sidebars = {
     'contact',
     { // we define the category folders here so we do not need to add _category_.json files to each directory
       type: 'category',
-      label: 'Carrboro Composting Study Basics',
+      label: 'Carolina Community Composting Study Basics',
       "link": {
         "type": "generated-index",
-        "description": "If you are new to the Carrboro Composting data this is the place to start to learn more about the data that is available."
+        "description": "If you are new to the Carolina Community Composting data this is the place to start to learn more about the data that is available."
       },
       items: [
 

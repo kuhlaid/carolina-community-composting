@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Carrrboro Composting',
-  tagline: 'The Composting Guide to Carrboro Composting data',
+  tagline: 'The Composting Guide to Carolina Community Composting data',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -84,7 +84,7 @@ const config = {
     ({
       // Replace with your project's social card
       navbar: {
-        title: 'The Composting Guide to Carrboro Composting',
+        title: 'The Composting Guide to Carolina Community Composting',
         logo: {
           alt: 'The Composting Guide Logo',
           src: 'img/logo.png',
@@ -98,7 +98,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/kuhlaid/carrrboro-composting',
+            href: 'https://github.com/kuhlaid/carolina-community-composting',
             label: 'GitHub',
             position: 'right',
           },

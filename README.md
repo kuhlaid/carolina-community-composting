@@ -1,6 +1,6 @@
 # About this code
 
-This repository was started in August of 2024 and uses [Docusaurus](https://docusaurus.io), a modern static website generator, to create a Carrboro Composting website. The idea behind the repository is to provide a knowledgebase guide into understanding and working with the Carrboro Composting publicly available data.
+This repository was started in August of 2024 and uses [Docusaurus](https://docusaurus.io), a modern static website generator, to create a Carolina Community Composting website. The idea behind the repository is to provide a knowledgebase guide into understanding and working with the Carolina Community Composting publicly available data.
 
 ## Why Docusaurus
 
@@ -28,7 +28,7 @@ You have been warned, but if you prefer to develop on your local computer, the f
 
 To clone the repository locally use:
 
-`git clone --config core.autocrlf=false https://github.com/kuhlaid/carrrboro-composting`
+`git clone --config core.autocrlf=false https://github.com/kuhlaid/carolina-community-composting`
 
 #### Node install using Yarn
 
