@@ -28,7 +28,7 @@ const sidebars = {
       label: 'Carolina Community Composting Study Basics',
       "link": {
         "type": "generated-index",
-        "description": "If you are new to the Carolina Community Composting data this is the place to start to learn more about the data that is available."
+        "description": "If you are new to the Carolina Community Composting, this is the place to start to learn more."
       },
       items: [
 
