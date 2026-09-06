@@ -27,6 +27,10 @@ If you’re interested in starting to compost, [visit our page on composting opt
 
 ## About Carolina Community Composting
 
+Carolina Community Composting is a volunteer-lead effort to increase the number of food waste drop-off sites to more locations within Orange County, NC. This effort is mainly funded through grants from the town of Carrboro and Orange County. Since the program began in 2023, some neighborhoods have taken the initiative to self-fund, thus allowing other neighborhoods to take advantage of grant funding. Neighborhood food waste drop-off sites make composting more accessible to the community, especially for commercially compostable waste such as meat, dairy, and pizza boxes.
+
+## How the program started
+
 Fairoaks Compost was launched in September 2023 with the help of a [Green Neighborhoods grant](https://townofcarrboro.org/2778/Green-Neighborhoods-Grant-Program) from the Town of Carrboro. Fairoaks Compost makes it easier and less expensive for our neighbors to compost their food waste. We partner with CompostNow, a commercial composting service, that takes pizza boxes, meat, and dairy along with traditional food scraps and leftovers. Since then our pilot program has been replicated in Barred Owl Creek, the Cedars, Twin Magnolias, and Wexford. Our goal is to help the town of Carrboro reach its climate action goal of reducing CO2 emissions by 80% by 2030. In addition, our pilot program is helping Orange County on its Road to Zero Waste by 2045. In our first year, Fairoaks diverted about 9.5 tons of food waste from the landfill. In the process we avoided the production of ~1 ton of methane (28 tons CO2e). [You can track the progress of all of our neighborhood efforts here](/progress).
  
 An added benefit has been the community building effect on our neighborhood. Educational sessions, happy hours, and trips to the Compost Now bins have fostered relationships and a sense of shared purpose.  A leadership team formed to guide the effort has turned neighbors into friends.

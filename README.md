@@ -57,7 +57,7 @@ Note, several application settings are set as environment variables. The `.env.e
 
 Review the documentation at https://docsearch.algolia.com/docs/legacy/run-your-own/ or https://docsearch.algolia.com/docs/legacy/config-file
 
-- Log into Algolia and select or create the application we want to use (which in this case is Carrrboro Composting)
+- Log into Algolia and select or create the application we want to use (which in this case is Carolina Community Composting)
 - Next we need to create the index for this application and give the index a name
 - Next add an API needs the ACL addObject, editSettings and deleteIndex.
 
