@@ -6,14 +6,17 @@ title: Carolina Community Composting Homepage
 # Our goal​
 
 :::info[Goals]
+
 Originally started in Carrboro, this effort has expanded to other towns in North Carolina. The goal is to promote composting in Carolina Communities in an effort to reduce waste, reduce emissions, and create healthier soils.
+
 :::
 
 ## About CompostNow food waste bins
 
 You are probabaly visiting this site to learn what can and cannot be brought to a CompostNow food waste drop-off site to be composted? Below is a list of what you need to keep in mind.
 
-:::tip[Yes, compostable]:
+:::tip[Yes, compostable]
+
 - All food scraps cooked or raw (veggies, fruit, dairy, fish, meat, small bones)
 - Coffee grounds and filters
 - Egg shells and paper egg cartons
@@ -25,10 +28,12 @@ You are probabaly visiting this site to learn what can and cannot be brought to 
 - Paper (not shiny or glossy)
 - Pet food
 - Pizza boxes
+
 :::
 
 
-:::danger[Not accepted]:
+:::danger[Not accepted]
+
 - Baby diapers or pet waste bags
 - Candles
 - Cigarette butts or tobacco
@@ -41,6 +46,7 @@ You are probabaly visiting this site to learn what can and cannot be brought to 
 - Plastic
 - Styrofoam meat trays
 - Synthetic corks
+
 :::
 
 ## Why compost?​
