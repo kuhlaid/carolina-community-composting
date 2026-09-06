@@ -13,7 +13,35 @@ Originally started in Carrboro, this effort has expanded to other towns in North
 
 You are probabaly visiting this site to learn what can and cannot be brought to a CompostNow food waste drop-off site to be composted? Below is a list of what you need to keep in mind.
 
+:::tip[Yes, compostable]:
+- All food scraps cooked or raw (veggies, fruit, dairy, fish, meat, small bones)
+- Coffee grounds and filters
+- Egg shells and paper egg cartons
+- Flower arrangements
+- Household plants and soil
+- Items labeled BPI Certified Compostable
+- Loose tea
+- Paper towels and napkins
+- Paper (not shiny or glossy)
+- Pet food
+- Pizza boxes
+:::
 
+
+:::danger[Not accepted]:
+- Baby diapers or pet waste bags
+- Candles
+- Cigarette butts or tobacco
+- Clams or oysters shells
+- Fire place or BBQ ash
+- Dryer lint or sheets
+- Floss
+- Items labeled "biodegradable"
+- Metal or aluminium
+- Plastic
+- Styrofoam meat trays
+- Synthetic corks
+:::
 
 ## Why compost?​
 
